@@ -1,0 +1,14 @@
+Crie uma classe chamada Fatura para que uma loja de sumprimentos de 
+informática possa utilizá-la para representar uma fatura de um item vendido
+na loja.
+
+1) Uma fatura deve incluir quatro partes das informações como variáveis de
+instância - o número (tipo String), a descrição (tipo String), a quantidade
+comprada de um item (tipo int) e o preço por item (tipo double).
+
+2) Além disso, forneça um método chamado getValorFatura que calcula o valor
+da fatura (isso é, multiplica a quantidade pele preço por item) e depois 
+retorna o valor como um double.
+
+3) Se o valor não for positivo, ele deve ser configurado como 0. Se o preço
+por item não for positivo, ele deve ser configurado como 0.0.

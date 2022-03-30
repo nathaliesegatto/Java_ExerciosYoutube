@@ -1,0 +1,6 @@
+Implemente uma classe para definir os objetos que representarão os clientes
+de um banco. Essa classe deve possuir 5 atributos: nome, rg, cpf, telefone 
+e número da conta. Faça um teste criando objetos da classe Cliente. Altere
+e exiba no console os valores armazenados nos atributos desses objetos. Crie
+uma nova classe chamada testaCliente trazendo como retorno os atributos de
+cada cliente.
