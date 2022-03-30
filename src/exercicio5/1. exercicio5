@@ -1,0 +1,5 @@
+Implemente uma classe chamada Aluno. Essa classe deve possuir 4 atributos:
+nome, cpf, matrícula e e-mail.
+Faça um teste criando objetos da classe Aluno. Altere e exiba no console os
+valores armazenados nos atributos desse objeto. Crie uma nova classe chamada
+testaAluno trazendo como retorno os atributos de 2 alunos diferentes.
