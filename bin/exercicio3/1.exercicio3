@@ -1,0 +1,11 @@
+Uma locadora possui dois tipos de veículos: utilitário e de passeio. O
+veículo, indepentente do tipo, deve ser identificado pelo modelo, marca,
+ano, preço de locação e quantidade de dias de locação. Para calcular o
+preço da locação e construir as entidades apresentadas, utilize como regra
+as definições a seguir: 
+
+- Veículos utilitários possuem valor fixo acrescentado de R$ 40;
+- Veículos de passeio possuem um valor fixo com desconto de R$ 20;
+
+Teste a classe, imprimindo um teste com a locação sendo calculada por dias 
+contratados, do utilitário e do passeio.
